@@ -103,7 +103,7 @@ Completing this project strengthened my ability to create high-impact, user-frie
 ---
 
 ## 📬 Contact
-- **Name**: Naveenkumar R
+- **Name**: Naveenkumar Ramesh
 - **Email**: naveen130516@gmail.com
 - **Phone**: +91 8190880462
 
