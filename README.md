@@ -43,7 +43,7 @@ The project enables strategic decision-making by uncovering sales patterns, prof
 
 ![Adventure Works-page-001](https://github.com/user-attachments/assets/2afee608-a924-4e7d-bda7-7e46ab62c2f8)
 
-
+![Image](https://github.com/user-attachments/assets/2a270c69-6f12-4858-8211-0f3106e97448)
 
 ---
 
