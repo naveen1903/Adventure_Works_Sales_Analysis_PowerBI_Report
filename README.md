@@ -86,7 +86,7 @@ The project enables strategic decision-making by uncovering sales patterns, prof
 
 ---
 
-##📌 Conclusion
+## 📌 Conclusion
 Through the Adventure Works Sales Analysis dashboard, I demonstrated the ability to transform complex sales data into clear, actionable insights using Power BI.
 The project showcases advanced skills in data modeling, DAX calculations, and interactive visualization design, enabling stakeholders to analyze sales trends, profitability, and top performers across multiple regions and categories.
 
